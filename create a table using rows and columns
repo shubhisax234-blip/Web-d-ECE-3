@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="5">
+        <tr>
+            <th>Day</th>
+            <th>8:50-9:40 AM</th>
+            <th>9:40-10:30 AM</th>
+            <th>10:40-11:30 AM</th>
+            <th>11:30-12:20 PM</th>
+            <th>12:20-1:10 PM</th>
+            <th>1:10-2:00 PM</th>
+            <th>2:00-2:50 PM</th>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>Math</td>
+            <td>Physics</td>
+            <td>C++</td>
+            <td>Electronnics</td>
+            <td>Design think</td>
+            <td> EVS</td>
+            <td>AI</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>Electronics</td>
+            <td>AI</td>
+            <td>Physics</td>
+            <td>C++</td>
+            <td>Maths</td>
+            <td> EVS</td>
+            <td>Design think</td>
+        </tr>
+        <tr>
+            <td>wednesday</td>
+            <td>Math</td>
+            <td>Physics</td>
+            <td>C++ Lab</td>
+            <td>AI</td>
+            <td>Electronnics</td>
+            <td> EVS</td>
+            <td>Design think</td>
+        </tr>
+        <tr>
+            <td>Thursday</td>
+            <td>Physics</td>
+            <td>Math</td>
+            <td>Electronnics</td>
+            <td>C++</td>
+            <td>Design think</td>
+            <td>AI</td>
+            <td> EVS</td>
+            <td colspan="2">Mehanical</td>
+        </tr>
+        <tr>
+            <td>Friday</td>
+            <td>Math</td>
+            <td>C++</td>
+            <td>Physics</td>
+            <td>Design think</td>
+            <td>Electronnics</td>
+            <td> EVS</td>
+            <td>AI</td>
+            <td rowspan="2">web D Lab</td>
+        </tr>
+        </table>
+</body>
+</html>
